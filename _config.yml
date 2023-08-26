@@ -1,6 +1,31 @@
-title: Minimal theme
+title: <p align="center"> Vignesh </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vignesh-m-b95aa690/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I am a passionate and proficient C# Developer with more than 11 years’ experience
+producing code to a consistently high standard. I am constantly honing my skills within the web
+development arena, and apply my knowledge to implement a range of practical solutions with the
+utmost efficiency. I possess a proven track record of developing .NET applications and am seeking
+a role that will utilise and expand on these skills
+# Technical Skill Set
+Framework : .NET 2.0/3.5/4.0/4.5
+ IDE : Visual Studio, Visual Studio Code, Pycharm, Jupyter
+ Programming Platforms : C#.NET, ASP.NET, ADO.NET, XML, LINQ, MVC, Jquery,
+ Angular JS2, JAVA SCRIPT, WCF, WebApi. MicroServices,Augular 14,Python,Selenium
+ SAP Data Interface API, Business One Web Services
+ Web Technologies : HTML
+ Reporting Tool : Crystal Reports
+ Databases : SQL Server ,MySql, HANA
+ Mobile Development : Phone Gap
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
